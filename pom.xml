@@ -6,7 +6,7 @@
 
   <groupId>net.pwall.json</groupId>
   <artifactId>json-kotlin-bom</artifactId>
-  <version>0.1</version>
+  <version>0.2</version>
   <name>JSON Kotlin BOM</name>
   <description>BOM for JSON Kotlin and Java libraries</description>
   <packaging>pom</packaging>
@@ -48,22 +48,22 @@
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>jsonutil</artifactId>
-        <version>4.1</version>
+        <version>5.0</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-pointer</artifactId>
-        <version>1.0</version>
+        <version>1.1.1</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin</artifactId>
-        <version>4.1</version>
+        <version>4.2</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin-test</artifactId>
-        <version>0.9</version>
+        <version>0.10</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
@@ -73,22 +73,22 @@
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-ktor</artifactId>
-        <version>1.2</version>
+        <version>1.3</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-ktor-client</artifactId>
-        <version>0.6</version>
+        <version>0.7</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin-schema</artifactId>
-        <version>0.18.1</version>
+        <version>0.19</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin-schema-codegen</artifactId>
-        <version>0.30</version>
+        <version>0.31</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
