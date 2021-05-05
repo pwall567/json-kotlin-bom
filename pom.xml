@@ -6,7 +6,7 @@
 
   <groupId>net.pwall.json</groupId>
   <artifactId>json-kotlin-bom</artifactId>
-  <version>0.2</version>
+  <version>0.3</version>
   <name>JSON Kotlin BOM</name>
   <description>BOM for JSON Kotlin and Java libraries</description>
   <packaging>pom</packaging>
@@ -58,12 +58,12 @@
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin</artifactId>
-        <version>4.2</version>
+        <version>4.3</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
         <artifactId>json-kotlin-test</artifactId>
-        <version>0.10</version>
+        <version>0.11</version>
       </dependency>
       <dependency>
         <groupId>net.pwall.json</groupId>
