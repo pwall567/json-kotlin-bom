@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [0.4] - 2021-05-20
+### Added
+- `pom.xml`: Updated version numbers for `json-kotlin-schema` and `json-kotlin-schema-codegen`
+
 ## [0.3] - 2021-05-06
 ### Added
 - `pom.xml`: Updated version numbers for `json-kotlin` and `json-kotlin-test`
